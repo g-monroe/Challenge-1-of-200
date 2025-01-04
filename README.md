@@ -7,3 +7,5 @@ Code By: Gavin (Myself)
 Feel free to take and have fun with it - if used for commerical, please ask George for permission, as he is the creator of the design. Not myself.
 
 Thanks!
+
+Try it out on CodePen or Here: https://gavinmonroe.dev/shots/PriceCard/
